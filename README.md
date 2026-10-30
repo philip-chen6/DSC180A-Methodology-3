@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
 
-Philip Chen
+Kyle Chen-Kai Zhao
